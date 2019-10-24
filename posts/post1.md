@@ -88,7 +88,7 @@ I already know the profile picture urls so to make it clear I decreased my dicti
 
 7- Conclusion => Let's say you make 100 requests per second (it is so looooooow I know ), in worst case almost **9 hours** will be enough to extract the url of a profile picture of a user!
 
-I wanted to show you how a script language can be useful for hunting and automate things :) Thanks for reading post
+I wanted to show you how a script language can be useful for hunting and automate things :)
 
 
 
