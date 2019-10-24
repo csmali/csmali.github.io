@@ -1,3 +1,3 @@
-[first post](./post1.html).
+[first post](./posts/post1.html).
 
-[second post](./post2.html).
+[second post](./posts/post2.html).
