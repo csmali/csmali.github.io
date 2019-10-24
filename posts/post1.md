@@ -8,11 +8,11 @@ This vulnerability allows to anyone to access any user's profile picture.Here is
 
 1 - While trying to understand upload mechanism, I saw that when a user uploads a profile picture; the response contains a url
 
-**/directory/userid/imagefilename.jpg**
+> **/directory/userid/imagefilename.jpg**
 
 2- So it means that you can directly access to a profile picture by just visiting
 
-www.redacted.com/directory/userid/imagefilename.jpg
+> www.redacted.com/directory/userid/imagefilename.jpg
 
 Main and vulnerable protection of profile picture saving mechanism is that giving random imagefilename to your picture before saving it. So it means you can not directly access to a profile picture unless you know exact filename. But I figured out that it was not random enough at all!
 
@@ -24,10 +24,10 @@ I registered 4 accounts and uploaded 2 **pngs** for first  two accounts and **jp
 
 I Examined them and saw that (I will change filenames since it is redacted)
 
-    imagefilename for 1. account is **x000000000yy**ab1**zz**q.**png**
-    imagefilename for 2. account is **x000000000yy**c2x**zz**w.**png**
-    imagefilename for 3. account is **x000000000yy**exg**zz**3.**jpg**
-    imagefilename for 4. account is **x000000000yy**g31**zz**r.**jpg**
+imagefilename for 1. account is **x000000000yy**ab1**zz**q.**png**
+imagefilename for 2. account is **x000000000yy**c2x**zz**w.**png**
+imagefilename for 3. account is **x000000000yy**exg**zz**3.**jpg**
+imagefilename for 4. account is **x000000000yy**g31**zz**r.**jpg**
 
 Did you see that ? There are lots of  same substring.The  "**x000000000yy**" part is the starting part of every image files. and "**zz**" parts are same.
 
@@ -35,11 +35,12 @@ I do not exactly why;  basically  a image file is created according to following
 
 If a file you upload is png it will be :
 
-fixed12char **random3char** fixed2char **random1char**.png
+> fixed12char **random3char** fixed2char **random1char**.png
 
-else if file is jpg it will be :
+ 
+elif file is jpg it will be :
 
-fixed12char **random3char** fixed2char **random1char**.jpg
+> fixed12char **random3char** fixed2char **random1char**.jpg
 
 **Only 4** characters are **RANDOM**
 
