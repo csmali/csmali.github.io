@@ -7,15 +7,15 @@ This will be the place where I praise myself in.
 
 [OSCP Adventure -- Coming Soon.](./posts/post6.html)
 
-[HTB Mango Walkthrough -- Coming Soon.]
+[HTB Mango Walkthrough -- Coming Soon.](./posts/post6.html)
 
-[HTB Networked Walkthrough -- Coming Soon.]
+[HTB Networked Walkthrough -- Coming Soon.](./posts/post6.html)
 
-[HTB Craft Walkthrough -- Coming Soon.]
+[HTB Craft Walkthrough -- Coming Soon.](./posts/post6.html)
 
-[HTB Jarvis Walkthrough -- Coming Soon.]
+[HTB Jarvis Walkthrough -- Coming Soon.](./posts/post6.html)
 
-[CSRF Attack for Incremental Parameters](./posts/post5.html)
+[CSRF Attack for Incremental Parameters](./posts/post6.html)
 
 [BTRisk BTRSYS1 Walkthrough](./posts/post4.html)
 
