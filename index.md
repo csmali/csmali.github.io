@@ -5,8 +5,15 @@ This will be the place where I praise myself in.
 
 ### Security Related Posts
 
-
 [OSCP Adventure -- Coming Soon.](./posts/post6.html)
+
+[HTB Mango Walkthrough -- Coming Soon.]
+
+[HTB Networked Walkthrough -- Coming Soon.]
+
+[HTB Craft Walkthrough -- Coming Soon.]
+
+[HTB Jarvis Walkthrough -- Coming Soon.]
 
 [CSRF Attack for Incremental Parameters](./posts/post5.html)
 
