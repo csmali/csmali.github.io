@@ -64,17 +64,17 @@ I created a checklist. I hope it will be useful for you.
 
 These are the links I constantly check in my enum process.
 
-general info https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md
-basic-linux priv-esc https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
-priv-esc abusing sudo rights https://github.com/Ignitetechnologies/Privilege-Escalation/blob/master/Abusing%20Sudo%20Righs.md
-priv-esc windows  https://www.fuzzysecurity.com/tutorials/16.html
-priv-esc windows  https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
-priv-esc https://guide.offsecnewbie.com/privilege-escalation/windows-pe
-smb enumeration https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
-common-ports https://sushant747.gitbooks.io/total-oscp-guide/list_of_common_ports.html
-priv-esc https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privlege%20Escalation.md
-total oscp guide https://sushant747.gitbooks.io/total-oscp-guide/
-upgrading shell https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+**general info** https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md
+**basic-linux priv-esc** https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+**priv-esc abusing sudo** rights https://github.com/Ignitetechnologies/Privilege-Escalation/blob/master/Abusing%20Sudo%20Righs.md
+**priv-esc windows**  https://www.fuzzysecurity.com/tutorials/16.html
+**priv-esc windows**  https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
+**priv-esc** https://guide.offsecnewbie.com/privilege-escalation/windows-pe
+**smb enumeration** https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
+**common-ports** https://sushant747.gitbooks.io/total-oscp-guide/list_of_common_ports.html
+**priv-esc** https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privlege%20Escalation.md
+**total oscp guide** https://sushant747.gitbooks.io/total-oscp-guide/
+**upgrading shell** https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
 
 
 
