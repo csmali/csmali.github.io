@@ -1,6 +1,6 @@
 # OSCP Adventure
 
-Hi again! I passed OSCP exam in my second attempt! It was, without a doubt, a great journey and experience.
+Hi again! For newcomers, I am **csmali_** on twitter. I finally passed OSCP exam in my second attempt! It was, without a doubt, a great journey and experience.
 In this post I will try to explain my methodology, my mistakes in first exam, and the things I did correctly in second attempt.
 I hope this article will be useful for those who will take the exam.
  
@@ -28,7 +28,7 @@ I failed first time so hard. I succesfully compromised 10 point machine and BoF 
 A Rabbit Hole is basically a time consuming path that leads nowhere where you think there will be treasure at the end of it. It maybe a brute force attempt, a software that has no vulnerability etc. I already now OSCP-like machines sometimes have rabbit holes. It is easy to say that "avoid rabbit holes". But you can not avoid before you enter one of them. In my first attempt after I got my first 35 points, I started to looking at 20 points machines at the sametime. I was too smart and blind that I thought after initial recon, I have found entry points of machines. But they were not, at all.
 
 * **Psychology Effect**
-Think about that. You collect half of the points you need (35 points) in a time less than 3 hours. But you collect no more points for almost 12 hours. The truth is, I felt that I have failed after 12 hours of exam. Why the f*** on earth? I could do more recon, check previous scan output one more time, try to expand attack surface etc. But all I did was feeling total breakdown. So you when are you in that mood, no one gives you reverse shells.
+Think about that, you collect half of the points you need (35 points) in a time less than 3 hours. But you collect no more points for almost 12 hours. The truth is, I felt that I have failed after 12 hours of exam. Why the f*** on earth? I could do more recon, check previous scan output one more time, try to expand attack surface etc. But all I did was feeling total breakdown. So you when are you in that mood, no one gives you reverse shells.
 
 * **Recon**
 It turns out, I was not good at recon. The main reason that pushed me into rabbit holes, was I had nothing else to look into. If you have 2 or 3 options, ports, webpages,applications,services etc. you feel more comfortable. After that even if you are in a rabbit hole, you remember that you have other things that needs to be examined. This is the only way out from rabbit hole.
@@ -64,26 +64,27 @@ I created a checklist. I hope it will be useful for you.
 
 These are the links I constantly check in my enum process.
 
-**general info** https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md
+**OSCP Survival Guide** OSCP Survival Guide (https://github.com/wwong99/pentest-notes/blob/master/oscp_resources/OSCP-Survival-Guide.md)
 
-**basic-linux priv-esc** https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
+**g0tmi1k Basix Linux Privilege Escalation** (https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)
 
-**priv-esc abusing sudo** rights https://github.com/Ignitetechnologies/Privilege-Escalation/blob/master/Abusing%20Sudo%20Righs.md
+**Privilege Escalation abusing sudo rights** (https://github.com/Ignitetechnologies/Privilege-Escalation/blob/master/Abusing%20Sudo%20Righs.md)
 
-**priv-esc windows**  https://www.fuzzysecurity.com/tutorials/16.html
+**Privilege Escalation Windows**  (https://www.fuzzysecurity.com/tutorials/16.html)
 
-**priv-esc windows**  https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/
-**priv-esc** https://guide.offsecnewbie.com/privilege-escalation/windows-pe
+**Privilege Escalation Windows**  (https://pentest.blog/windows-privilege-escalation-methods-for-pentesters/)
 
-**smb enumeration** https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
+**Privilege Escalation Windows** (https://guide.offsecnewbie.com/privilege-escalation/windows-pe)
 
-**common-ports** https://sushant747.gitbooks.io/total-oscp-guide/list_of_common_ports.html
+**SMB Enumeration** (https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html)
 
-**priv-esc** https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privlege%20Escalation.md
+**List of Common Ports** (https://sushant747.gitbooks.io/total-oscp-guide/list_of_common_ports.html)
 
-**total oscp guide** https://sushant747.gitbooks.io/total-oscp-guide/
+**Privilege Escalation Windows** (https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privlege%20Escalation.md)
 
-**upgrading shell** https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/
+**Total OSCP Guide** (https://sushant747.gitbooks.io/total-oscp-guide/)
+
+**Upgrading Shell** (https://blog.ropnop.com/upgrading-simple-shells-to-fully-interactive-ttys/)
 
 
 
