@@ -1,6 +1,6 @@
 # Create Your Custom Karaoke Song in Seconds!
- 
-Hello folks! Today I will write about something rather than security. 
+
+Hello folks! Today I will write about something rather than security.
 
 I am an amateur musician, I usually play classical guitar and drum in my free time. I also play piano rarely.
 
@@ -13,29 +13,33 @@ But most of the time, I can not find drumless version of the songs and it bother
 
 Download mp3 to computer from youtube
 
-*   Step 1
+*   Find your music video and download it via some video to mp3 website
+
+![image](../images/post7/01.jpg)
+
+![image](../images/post7/02.jpg)
+
+![image](../images/post7/03.jpg)
+
 
 Upload mp3 to melody.ml from computer
 
-*   Step 2
+*   Wait for the process and download when it is ready
 
-Download zip file
+![image](../images/post7/05.jpg)
 
-*   Step 3
+*   Content of the downloaded file
 
-Import files to Audacity
-
-*   Step 4
-
-Create custom mp3
-
-*   Step 5
-
-Enjoy!
-
-![image](../images/post5/1.gif)
+![image](../images/post7/06.jpg)
 
 
+*   Drag and drop files to Audacity. Audacity is free program that you can use for both
+Windows and Linux platforms.
+
+![image](../images/post7/07.jpg)
 
 
+*   Let's say that you want to exclude DRUM sound from song. Find the drum layer and click mute.
+Click play button and test it you will hear no drum!. After that from File -> Export , export your song as mp3.
 
+That's it now you can enjoy your drumless custom karaoke song!
