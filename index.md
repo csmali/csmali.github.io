@@ -2,10 +2,11 @@
 
 This will be the place where I praise myself in.
 
-
-### Security Related Posts
+### Hobby Posts
 
 [Create Your Custom Karaoke Song in Seconds!](./posts/post7.html)
+
+### Security Related Posts
 
 [OSCP Adventure](./posts/post6.html)
 
