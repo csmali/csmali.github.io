@@ -5,15 +5,11 @@ This will be the place where I praise myself in.
 
 ### Security Related Posts
 
-[OSCP Adventure](./posts/post7.html)
+[Create Your Custom Karaoke Song in Seconds!](./posts/post7.html)
 
-[HTB Mango Walkthrough -- Coming Soon.](./posts/post6.html)
+[OSCP Adventure](./posts/post6.html)
 
-[HTB Networked Walkthrough -- Coming Soon.](./posts/post6.html)
-
-[HTB Craft Walkthrough -- Coming Soon.](./posts/post6.html)
-
-[CSRF Attack for Incremental Parameters](./posts/post6.html)
+[CSRF Attack for Incremental Parameters](./posts/post5.html)
 
 [BTRisk BTRSYS1 Walkthrough](./posts/post4.html)
 
