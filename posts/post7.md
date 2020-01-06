@@ -40,6 +40,8 @@ Windows and Linux platforms.
 
 
 *   Let's say that you want to exclude DRUM sound from song. Find the drum layer and click mute.
-Click play button and test it you will hear no drum!. After that from File -> Export , export your song as mp3.
 
-That's it now you can enjoy your drumless custom karaoke song!
+![image](../images/post7/08.jpg)
+
+*   Click play button and test it you will hear no drum!. After that from File -> Export , export your song as mp3.
+That's it. Now you can enjoy your drumless custom karaoke song!. You can make all of the combinations for the instruments and vocal of a song with this method.
